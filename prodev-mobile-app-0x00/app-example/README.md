@@ -51,6 +51,7 @@ Join our community of developers creating universal apps.
 
 ## Reset-project
 
+reset-project
 Deleting node_modules
 Clearing npm/yarn caches
 Reinstalling dependencies
